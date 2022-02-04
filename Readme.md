@@ -45,6 +45,9 @@ There is no need explicitly state the
 
 ##### Javascript Output
 
-         * `Document.write()`
+        *Document.write()
         * console.log()
         * Targetting HTML Elements
+        * window.alert
+        * window.print
+        * alert
