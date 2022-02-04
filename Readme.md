@@ -66,6 +66,10 @@ Following are some data types
           let isMale = true; //boolean
           let cgpa = 3.118; //float point numbers
           let salary = undefined; //undefined
+          const obj = {
+             Name:"Umar",
+             Age:20,
+          }
 </pre>
 </code>
 
@@ -103,7 +107,7 @@ let d = a/b;
 
 ###### Javascript Comments
 
-      - string with double slashes("//")
+      - string,starting with double slashes("//")
       - ignored by compiler
 
 ###### Javascript Case
