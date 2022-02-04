@@ -48,6 +48,23 @@ There is no need explicitly state the
         *Document.write()
         * console.log()
         * Targetting HTML Elements
-        * window.alert
-        * window.print
-        * alert
+        * window.alert()
+        * window.print()
+        * alert()
+        the parenthesis contains the data to be displayed
+
+###### Javascript Variables
+
+       start  with "let" keyword and write the name of the variable separated by space.
+       i.e
+
+<code>   
+<pre>    
+          let name ="Umar";
+          let age=12;
+          let isMale = true;
+          let cgpa = 3.118;
+</pre>
+</code>
+
+###### separate statements with semiColon (;)
