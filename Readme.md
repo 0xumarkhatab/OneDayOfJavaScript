@@ -42,3 +42,9 @@ console.log(element);
  The function is called by it's name with parameters passed 
 There is no need explicitly state the 
  type of parameters  but in typescript,you do
+
+##### Javascript Output
+
+        * Document.write()
+        * console.log()
+        * Targetting HTML Elements

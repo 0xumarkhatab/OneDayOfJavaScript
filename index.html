@@ -6,12 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Learn Javascript</title>
   </head>
-  <script>
-    console.log("Hello world");
-    function printMessage(element) {
-      console.log(element);
-    }
-    printMessage("Hello World inside function");
-  </script>
-  <body></body>
+  <body>
+    <p>
+      The below paragraph depicts the output of Javascript using html targetting
+    </p>
+    <p id="demo"></p>
+    <script>
+      console.log("Hello world");
+      // Javascript functions
+
+      function printMessage(element) {
+        console.log(element);
+      }
+      function returnMessage(element) {
+        return element;
+      }
+      // calling the functions
+      printMessage("Hello World inside function");
+      // Javascript Outputs
+      console.log(document.getElementById("demo"));
+      const message = "Hello World";
+    </script>
+  </body>
 </html>
