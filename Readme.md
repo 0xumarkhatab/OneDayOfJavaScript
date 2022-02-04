@@ -8,7 +8,7 @@ This repo is the place of Transitioning from Basic Level Javascript to At least 
 
 Depicting Everything i learn in one Day !
 
--> Javascript is a baby subset of TypeScript
+Javascript is a baby subset of TypeScript
 
 JavaScript has two types:
 
@@ -39,6 +39,6 @@ console.log(element);
 }
 
 </code>
--> The function is called by it's name with parameters passed !
+ The function is called by it's name with parameters passed 
 There is no need explicitly state the 
-` type of parameters ` but in `typescript`,you do !
+ type of parameters  but in typescript,you do
