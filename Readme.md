@@ -55,17 +55,23 @@ There is no need explicitly state the
 
 ###### Javascript Variables
 
-       start  with "let" keyword and write the name of the variable separated by space.
+       start  with "let" or "const" keyword and write the name of the variable separated by space.
        i.e
 
 <code>   
+Following are some data types
 <pre>    
-          let name ="Umar";
-          let age=12;
-          let isMale = true;
-          let cgpa = 3.118;
+          let name ="Umar"; //string
+          const age=12; //integer
+          let isMale = true; //boolean
+          let cgpa = 3.118; //float point numbers
+          let salary = undefined; //undefined
 </pre>
 </code>
+
+**const** does not let the user to re assign the value to variable declared with it.
+
+**let** alows the value change
 
 ###### separate statements with semiColon (;)
 
@@ -99,3 +105,9 @@ let d = a/b;
 
       - string with double slashes("//")
       - ignored by compiler
+
+###### Javascript Case
+
+JavaScript programmers tend to use camel case that starts with a lowercase letter:
+
+firstName, lastName, masterCard, interCity. are some examples.
