@@ -71,6 +71,8 @@ There is no need explicitly state the
 
 ##### Javascript Reserved Words
 
+=> You can not use reserved words or keyWords for naming variables or functions because it will clash on compile runtime.
+
 - **Keyword** **Description**
 - **var** Declares a variable
 - **let** Declares a block variable
@@ -81,3 +83,19 @@ There is no need explicitly state the
 - **function** Declares a function
 - **return** Exits a function
 - **try** Implements error handling to a block of statements
+
+###### Javascript Operators
+
+      - Basic Operators +,-,/,*
+
+<code>
+let a=12;
+let b=3;
+let c = a*b;
+let d = a/b;
+</code>
+
+###### Javascript Comments
+
+      - string with double slashes("//")
+      - ignored by compiler
