@@ -115,3 +115,11 @@ let d = a/b;
 JavaScript programmers tend to use camel case that starts with a lowercase letter:
 
 firstName, lastName, masterCard, interCity. are some examples.
+
+
+Learned some advanced some stuff too but didn't Find
+The Time to write here !
+But with that set , it's the Time to call the day off!
+I'm Gonna sleep to get ready for tomorrow's Clarity Hackathon!
+See ya people !
+Signing off! 
